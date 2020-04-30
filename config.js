@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://github.com/joey-younggap/jcinsh.github.io',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Joey Lee',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
